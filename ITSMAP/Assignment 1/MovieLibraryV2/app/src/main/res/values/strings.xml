@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MovieLibraryV2</string>
+    <string name="exit">Exit</string>
+    <string name="title">My Movies</string>
+    <string name="image_of_genre">Image of genre</string>
+    <string name="listview_item_title">Title</string>
+    <string name="rating">Rating:</string>
+    <string name="value">Value</string>
+    <string name="user_rating">User Rating:</string>
+    <string name="plot">Plot</string>
+    <string name="comment">Comment:</string>
+    <string name="genre_s">Genre(s):</string>
+    <string name="watched">Watched</string>
+    <string name="ok">ok</string>
+    <string name="enter_comment_here">Enter comment here</string>
+    <string name="cancel">Cancel</string>
+</resources>

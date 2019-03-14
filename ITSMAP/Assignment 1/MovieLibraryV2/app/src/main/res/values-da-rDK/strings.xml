@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieLibraryV2</string>
+    <string name="exit">Luk</string>
+    <string name="title">Mine film</string>
+    <string name="image_of_genre">Billede af genre</string>
+    <string name="listview_item_title">Titel</string>
+    <string name="rating">Vurdering:</string>
+    <string name="value">Værdi</string>
+    <string name="user_rating">Bruger Vurdering:</string>
+    <string name="plot">Oversigt</string>
+    <string name="comment">Kommentar:</string>
+    <string name="genre_s">Genre:</string>
+    <string name="watched">Set</string>
+    <string name="ok">ok</string>
+    <string name="enter_comment_here">Indtast kommentar her</string>
+    <string name="cancel">Annuller</string>
+</resources>
